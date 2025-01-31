@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 $config['base_url'] = 'https://jorghub.com';
+=======
+$config['base_url'] = 'https://alvj75.github.io/Multimedia/';
+>>>>>>> e157ddca3dc22a7fc4b8c4d6ecf78fc05b92b089
 
 /*
 |--------------------------------------------------------------------------
