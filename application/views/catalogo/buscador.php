@@ -2,7 +2,7 @@
 <div>
 	<nav class="navbar navbar-default navbar-static-top navbar-inverse">
 		<div class="container">
-            <a class="navbar-brand text-light">Multimedia</a>
+            <a class="navbar-brand text-light">JorgHub</a>
 			<a href="<?php echo site_url("Inicio/cerrarSesion"); ?>" class="nav navbar-nav navbar-right text-light"><i class="bi bi-door-open"></i></a>
 		</div>
 </div>

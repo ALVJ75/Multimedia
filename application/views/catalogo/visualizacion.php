@@ -2,11 +2,11 @@
 	<div>
 		<nav class="navbar navbar-default navbar-static-top navbar-inverse">
 			<div class="container">
-				<a class="navbar-brand text-light">Multimedia</a>
+				<a class="navbar-brand text-light">JorgHub</a>
 			</div>
 	</div>
 	<br>
-	<div class="container-fluid">
+	<div class="container container-fluid">
 		<div class="card">
 		  <div class="card-header">
 		    <?php echo $video->titulo; ?>
